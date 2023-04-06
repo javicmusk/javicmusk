@@ -1,4 +1,4 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hey, there!👋</h1>
 <p><h1 align="center">It's me, Lila Dangoriya Tharu.</h1></p>
 <p align="center">I'm a <b>Computer Engineering Student from Butwal, Nepal</b>.</p>
