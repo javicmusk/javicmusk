@@ -1,5 +1,9 @@
+[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hey, there!👋</h1>
-<p><h1>I'm Lila Dangoriya Tharu</h1> a Computer Engineering Student from Butwal, Nepal. I am passionate about coding and love learning new things, especially when it comes to the exciting realms of AI/ML, Computer Vision and Mathematics. I believe in the power of collaboration and open source software to bring about positive change in the world. If you're interested in working together on a project or have any questions, please feel free to reach out to me. Let's create something amazing together!</p>
+<p><h1 align="center">It's me, Lila Dangoriya Tharu.</h1></p>
+<p align="center">I'm a <b>Computer Engineering Student from Butwal, Nepal</b>.</p>
+<p>I am passionate about coding and love learning new things, especially when it comes to the exciting realms of <b>AI/ML, Computer Vision and Mathematics</b>. I believe in the power of collaboration and open source software to bring about positive change in the world. If you're interested in working together on a project or have any questions, please feel free to reach out to me. Let's create something amazing together!</p>
+<img align="right" alt="coding" width="400" src="https://www.charterglobal.com/wp-content/uploads/2017/07/1_YL6_gcdw5nCkCsjFp3AUwA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javicmusk&label=Profile%20views&color=0e75b6&style=flat" alt="javicmusk" /> </p>
 
