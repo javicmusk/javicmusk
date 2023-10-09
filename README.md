@@ -27,7 +27,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javicmusk&show_icons=true&locale=en&layout=compact" alt="javicmusk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javicmusk&show_icons=true&locale=en" alt="javicmusk" /></p>
 
